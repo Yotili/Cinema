@@ -1,0 +1,11 @@
+﻿  CommandProcessor.cpp
+C:\Users\USER\Documents\CinemaOp\MovieControl\MovieControl\CommandProcessor.cpp(344,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\Documents\CinemaOp\MovieControl\MovieControl\CommandProcessor.cpp(359,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\Documents\CinemaOp\MovieControl\MovieControl\CommandProcessor.cpp(375,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\Documents\CinemaOp\MovieControl\MovieControl\CommandProcessor.cpp(391,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\Documents\CinemaOp\MovieControl\MovieControl\CommandProcessor.cpp(406,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\Documents\CinemaOp\MovieControl\MovieControl\CommandProcessor.cpp(417,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\Documents\CinemaOp\MovieControl\MovieControl\CommandProcessor.cpp(428,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MyString.cpp
+  Generating Code...
+  MovieControl.vcxproj -> C:\Users\USER\Documents\CinemaOp\MovieControl\x64\Debug\MovieControl.exe
